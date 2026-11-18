@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "name": "photo-cd-contact-sheet",
+  "displayName": "Photo CD Contact Sheet",
+  "description": "Render four boundary-safe archival QA panels",
+  "preview": "output/legacy-pcd-compatibility.png",
+  "install": {
+    "command": "make install",
+    "networkRequired": false
+  }
+}
+
